@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/kartkp/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartkp/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kartkp/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
@@ -34,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/kartkp/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartkp/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kartkp/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/kartkp/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartkp/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
