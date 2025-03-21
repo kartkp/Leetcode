@@ -59,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/kartkp/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/kartkp/Leetcode/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/kartkp/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
