@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/kartkp/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/kartkp/Leetcode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/kartkp/Leetcode/tree/master/0461-hamming-distance) |
 ## Math
 |  |
 | ------- |
