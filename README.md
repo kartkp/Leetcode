@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartkp/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/kartkp/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kartkp/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kartkp/Leetcode/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/kartkp/Leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
