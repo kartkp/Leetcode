@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartkp/Leetcode/tree/master/0020-valid-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kartkp/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartkp/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kartkp/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kartkp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/kartkp/Leetcode/tree/master/0389-find-the-difference) |
