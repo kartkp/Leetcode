@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartkp/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kartkp/Leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kartkp/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/kartkp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/kartkp/Leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
