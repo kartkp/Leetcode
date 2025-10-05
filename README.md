@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kartkp/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kartkp/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/kartkp/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0948-sort-an-array](https://github.com/kartkp/Leetcode/tree/master/0948-sort-an-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kartkp/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kartkp/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/kartkp/Leetcode/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/kartkp/Leetcode/tree/master/0948-sort-an-array) |
@@ -54,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kartkp/Leetcode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/kartkp/Leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kartkp/Leetcode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/kartkp/Leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
